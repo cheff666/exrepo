@@ -1,0 +1,172 @@
+# Blender 4.0.2 MTL File: 'deluxoSF1.blend'
+# www.blender.org
+
+newmtl deluxo_badges
+Ns 0.000000
+Ka 0.200000 0.200000 0.200000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd DeluxoBlend1_8_CyclesBake_DIFFUSE.png
+
+newmtl deluxo_detail
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DeluxoBlend1_8_CyclesBake_DIFFUSE.png
+
+newmtl deluxo_lights
+Ns 0.000000
+Ka 0.200000 0.200000 0.200000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd DeluxoBlend1_8_CyclesBake_DIFFUSE.png
+
+newmtl dominator_dash_hd
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DeluxoBlend1_8_CyclesBake_DIFFUSE.png
+
+newmtl script_rt_dials_dukes
+Ns 0.000000
+Ka 0.200000 0.200000 0.200000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd DeluxoBlend1_8_CyclesBake_DIFFUSE.png
+
+newmtl sentinel3_detail
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Kd 0.710000 0.710000 0.710000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl sentinel3_interior
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DeluxoBlend1_8_CyclesBake_DIFFUSE.png
+
+newmtl sentinel3_leather_w__PAINT_6_
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DeluxoBlend1_8_CyclesBake_DIFFUSE.png
+
+newmtl sentinel3_pattern
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DeluxoBlend1_8_CyclesBake_DIFFUSE.png
+
+newmtl vehicle_generic_detail_stitch__PAINT_1_
+Ns 0.000000
+Ka 0.200000 0.200000 0.200000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd DeluxoBlend1_8_CyclesBake_DIFFUSE.png
+
+newmtl vehicle_generic_doorshut__PAINT_1_
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DeluxoBlend1_8_CyclesBake_DIFFUSE.png
+
+newmtl vehicle_generic_glasswindows2
+Ns 0.000000
+Ka 0.200000 0.200000 0.200000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd DeluxoBlend1_8_CyclesBake_DIFFUSE.png
+
+newmtl vehicle_generic_mesh4
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DeluxoBlend1_8_CyclesBake_DIFFUSE.png
+
+newmtl vehicle_generic_smallspecmap__PAINT_1_
+Ns 180.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.150000 0.150000 0.150000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DeluxoBlend1_8_CyclesBake_DIFFUSE.png
+
+newmtl vehicle_generic_smallspecmap__PAINT_2_
+Ns 512.000061
+Ka 1.000000 1.000000 1.000000
+Ks 0.600000 0.600000 0.600000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DeluxoBlend1_8_CyclesBake_DIFFUSE.png
+
+newmtl vehicle_generic_tyrewallblack
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DeluxoBlend1_8_CyclesBake_DIFFUSE.png
+
+newmtl vehicle_genericmud_car
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DeluxoBlend1_8_CyclesBake_DIFFUSE.png
