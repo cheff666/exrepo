@@ -1,0 +1,52 @@
+# Blender 4.0.2 MTL File: 'DoorR.blend'
+# www.blender.org
+
+newmtl sentinel3_interior
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DoorR3tex.png
+
+newmtl sentinel3_leather_w__PAINT_6_
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DoorR1tex.png
+
+newmtl sentinel3_pattern
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DoorR1tex.png
+
+newmtl vehicle_generic_detail2
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DoorR1tex.png
+
+newmtl vehicle_generic_doorshut__PAINT_1_
+Ns 50.000011
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DoorR1tex.png
