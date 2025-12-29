@@ -1,0 +1,12 @@
+# Blender 4.0.2 MTL File: 'wolf_test1_bckp5.blend'
+# www.blender.org
+
+newmtl m_7615ebdc-3ef7-44c0-8929-a5b31ab15ed8
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Wolf_UV5.png
