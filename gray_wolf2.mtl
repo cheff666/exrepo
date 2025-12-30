@@ -1,0 +1,22 @@
+# Blender 4.0.2 MTL File: 'wolf_test3_backup1.blend'
+# www.blender.org
+
+newmtl m_76b7eb19-3c8e-a884-7741-b0af6ba8c145
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Wolf_UV9.png
+
+newmtl m_f5311e67-2be6-6d39-33ab-b50e2621a823
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Wolf_UV9.png
